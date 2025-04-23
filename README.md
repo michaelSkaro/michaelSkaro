@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaelSkaro
-- 👀 I’m interested in understanding cloud based bioinformatics. I have  primarily worked on HPCs for past 8 years. I will be transitioning to primarily working in the cloud, this will present new challenges and opportunities for persoanl growth. 
-- 🌱 I’m currently learning Spatial-omics and implmenting massively paralleled Nextflow pipelines. A short term goal will be re-implement familiar workflows in a new domain specific language, containerize and deploy them on a kubernetes. Possible Youtube tutorial incoming 👀 ?  
-- 💞️ I’ve finished up loose ends projects for 2023 and will be limiting side projects in 2024. My inbox is always open but I will have limited time this year. 
+- 👀 I’m a new father to Matteo Alexander Skaro
+- 🌱 I’m currently learning Spatial-transcriptomics and implmenting massively paralleled Nextflow pipelines in my day to day research. A shoteo rt term goal will be re-implement familiar workflows in a new domain specific language, containerize and deploy them.
+- 💞️ In 2025 I have two personal projects I am embarking on. First, I am interested in GPU acceleration of my omics pipelines. I have spen the last 8 months learning cloud informatics and have noticed the massive inefficencies in CPU only bioinformatics pipelines. Second, I will be incorperating emerging LLM annotations of single cell transcriptomics data sets into routine subworkflows in my single cell pipelines.
 - 📫 How to reach me: I am available by email. mskaro.ms@gmail.com or check out my linked in and shoot me a message. 
 
 <!---
